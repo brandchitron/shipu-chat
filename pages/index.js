@@ -46,7 +46,7 @@ export default function Home() {
 
       {/* ফুটার */}
       <footer style={styles.footer}>
-        <p>© ২০২৬ ShiPu চ্যাট - সমুদ্রের মত নির্মল অভিজ্ঞতা</p>
+        <p>© 2026 ShiPu AI - Developed by Chitron Bhattacharjee</p>
       </footer>
 
       {/* অ্যানিমেশন কীফ্রেম */}
